@@ -1,6 +1,4 @@
 # hmrc-gift-aid-nodejs
-Port of most of Justin Busschau's php gift aid api to nodejs
-# hmrc-gift-aid-nodejs
 See https://github.com/JustinBusschau/hmrc-gift-aid#some-notes-on-the-library-and-data-persistance
 
 ```Javascript
